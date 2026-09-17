@@ -1,5 +1,4 @@
 # Diabetes Prediction using Artificial Neural Network
-# Diabetes Prediction using Artificial Neural Network
 
 An end-to-end machine learning project that uses an **Artificial Neural Network (ANN)** to classify diabetes outcomes from patient diagnostic measurements.
 
